@@ -1,13 +1,6 @@
 # P01AC
 Proyecto 01 Arquitectura de Computadores
 
-## Chips Faltantes
-
-- Mux4Way16
-- Mux8Way16
-- DMux4Way
-- DMux8Way
-
 ## Chips Completados
 
 - And 
@@ -21,3 +14,7 @@ Proyecto 01 Arquitectura de Computadores
 - Or16
 - Mux16
 - Or8Way
+- Mux4Way16
+- Mux8Way16
+- DMux4Way
+- DMux8Way
