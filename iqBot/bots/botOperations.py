@@ -123,7 +123,7 @@ class BotOperations:
 
         try:
             askDict[self.lostInRow]
-            
+        
             print("----------------------------------")
             print("Warning! %s operations lost." % self.lostInRow)
             print("----------------------------------")
